@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /data/
+Disallow: /ADMIN_ACCESS.txt
+Disallow: /*.sqlite3$
+Disallow: /*.bat$
+Disallow: /*.py$
+Disallow: /*?pay=
+Disallow: /pay/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&gclid
+Sitemap: https://maltsev-engineering.ru/sitemap.xml

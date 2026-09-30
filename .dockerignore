@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/orders.sqlite3*
+data/*.wal
+data/*.shm
+data/server_address.json
+ADMIN_ACCESS.txt
+config.json

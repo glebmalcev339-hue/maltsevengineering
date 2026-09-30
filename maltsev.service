@@ -1,0 +1,21 @@
+[Unit]
+Description=Maltsev Engineering shop
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=shop
+Group=shop
+WorkingDirectory=/home/shop/maltsev
+ExecStart=/usr/bin/python3 /home/shop/maltsev/server.py --host 127.0.0.1 --port 8080
+Restart=on-failure
+RestartSec=5
+# Безопасность: запись только в свою папку
+ProtectSystem=strict
+ReadWritePaths=/home/shop/maltsev
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

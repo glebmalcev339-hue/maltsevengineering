@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-29T12:00:00+03:00">
+  <shop>
+    <name>Maltsev Engineering</name>
+    <company>Maltsev Engineering</company>
+    <url>https://maltsev-engineering.ru/market.html</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Корпуса</category>
+      <category id="2">Модули и заглушки</category>
+      <category id="3">Стойки и каркасы</category>
+    </categories>
+    <delivery-options>
+      <option cost="300" days="2-7" />
+    </delivery-options>
+    <offers>
+    <offer id="1" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=1</url>
+      <price>1584</price>
+      <oldprice>1700</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://basket-38.wbbasket.ru/vol8594/part859437/859437659/images/big/1.webp</picture>
+      <picture>https://basket-38.wbbasket.ru/vol8594/part859437/859437659/images/big/2.webp</picture>
+      <picture>https://basket-38.wbbasket.ru/vol8594/part859437/859437659/images/big/3.webp</picture>
+      <name>Корпус для сборки лабораторного блока питания</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания с использованием вольтамперметра ZK-5KX. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Для контроля и управления температурой внутри корпуса предусмотрено окно на верхней стороне.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="2" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=2</url>
+      <price>1275</price>
+      <oldprice>1760</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://basket-24.wbbasket.ru/vol4210/part421025/421025722/images/big/1.webp</picture>
+      <picture>https://basket-24.wbbasket.ru/vol4210/part421025/421025722/images/big/2.webp</picture>
+      <picture>https://basket-24.wbbasket.ru/vol4210/part421025/421025722/images/big/3.webp</picture>
+      <name>M-eng / Корпус для электроники (под блок питания)</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. С 30.10.2025 корпус выпускается с увеличенной до 180мм глубиной. С 15.11.2025 добавлены точки крепления под AC/DC типа WaVGAT 180W С 20.11.2025 добавлены дополнительные вентиляционные отверстия в корпусе и технологические отверстия для демонтажа вводного блока питания C 14.12.2025 контроль температуры и настройка термостата теперь может обеспечивается без разборки корпуса (см.фото): в верхней крышке предусмотрено смотровое окно с отверстиями под кнопки настройки.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="3" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=3</url>
+      <price>1266</price>
+      <oldprice>1870</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://basket-38.wbbasket.ru/vol8665/part866586/866586494/images/big/1.webp</picture>
+      <picture>https://basket-38.wbbasket.ru/vol8665/part866586/866586494/images/big/2.webp</picture>
+      <picture>https://basket-38.wbbasket.ru/vol8665/part866586/866586494/images/big/3.webp</picture>
+      <name>Корпус для блока питания и дисплея ZK-5KX</name>
+      <description><![CDATA[Расширенная версия пластикового корпуса оптимизированная под сборку блока питания на базе модуля FKSI 85-265V и дисплея-вольтамперметра ZK-5KX. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). На лицевой стороне можно установить 3-строчный ампер-вольт-ваттметр, основные контакты, контрольные лампы, потенциометры управления напряжением и силой тока, сдвоенный USB-разъем розетки под питание напряжением 5 и 12В. На верхней крышке предусмотрена панель для контроля и управления встроенным термостатом. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия    </country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="4" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=4</url>
+      <price>1316</price>
+      <oldprice>1820</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-20.geobasket.ru/vol5494/part549471/549471198/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-20.geobasket.ru/vol5494/part549471/549471198/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-20.geobasket.ru/vol5494/part549471/549471198/images/big/3.webp</picture>
+      <name>Корпус для сборки лабораторного блока питания (M-eng)</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Отличие данной модификации заключается в конструкции лицевой панели, в которой дисплей вольтметра-амперметра прикрыт тонированным оргстеклом (для установки дисплея его необходимо демонтировать из штатного корпуса). С 16.10.2025 глубина корпуса увеличена для улучшения компоновки, увеличено расстояние между выходными контактами. С 15.11.2025 добавлены точки крепления под AC/DC типа WaVGAT 180W С 20.11.2025 добавлены дополнительные вентиляционные отверстия в корпусе и технологические отверстия для демонтажа вводного блока питания]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PQAAA02A</param>
+    </offer>
+    <offer id="5" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=5</url>
+      <price>1454</price>
+      <oldprice>2090</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12172/part1217227/1217227700/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12172/part1217227/1217227700/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12172/part1217227/1217227700/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на микросхеме TPA3255 (плата ZK6002). Возможности и компоненты для сборки (в комплект не входят): Предусилитель с TFT-дисплеем и Bluetooth-приемником (v.5.3) Diymore или аналог. Усилитель мощности ZK6002 с чипом TPA3255 300W. Импульсный блок питания 48V 350W.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFACA01</param>
+    </offer>
+    <offer id="6" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=6</url>
+      <price>1308</price>
+      <oldprice>1880</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol9441/part944139/944139694/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol9441/part944139/944139694/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol9441/part944139/944139694/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя TPA3255 (M-eng)</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на микросхеме TPA3255. Возможности и компоненты для сборки (в комплект не входят):- предусилитель с TFT-дисплеем и Bluetooth-приемником Diymore или аналог- усилитель мощности TPA3255 300W- импульсный блок питания 48V600W.Важно!!! Перед покупкой корпуса проверьте координаты лицевой панели, поскльку они у разных поставщиков отлиаются. Размеры между отверстиями должны быть 129х64мм.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFACA01</param>
+    </offer>
+    <offer id="7" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=7</url>
+      <price>3987</price>
+      <oldprice>6100</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol7304/part730447/730447321/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol7304/part730447/730447321/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol7304/part730447/730447321/images/big/3.webp</picture>
+      <name>Каркас телекоммуникационной стойки 10" 9U</name>
+      <description><![CDATA[Прочный каркас телекоммуникационной стойки формата 10 дюймов, высота 9U. Изготовлен из стали с порошковым покрытием. Подходит для монтажа сетевого оборудования, патч-панелей и модулей. Лёгкая сборка, комплект крепежа входит.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">алюминий,пластик</param>
+    </offer>
+    <offer id="8" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=8</url>
+      <price>1087</price>
+      <oldprice>1500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-55.geobasket.ru/vol3662/part366220/366220013/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-55.geobasket.ru/vol3662/part366220/366220013/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-55.geobasket.ru/vol3662/part366220/366220013/images/big/3.webp</picture>
+      <name>M-eng / Корпус для электроники (ARDUINO UNO, Mega 2560)</name>
+      <description><![CDATA[Специализированный корпус M-eng для плат Arduino UNO и Mega 2560. Отверстия под USB, питание и все выводы доступны без демонтажа. Крепёжные стойки совместимы со стандартным расположением отверстий. Защита платы от пыли и повреждений.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="9" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=9</url>
+      <price>1280</price>
+      <oldprice>1760</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol8201/part820199/820199840/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol8201/part820199/820199840/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol8201/part820199/820199840/images/big/3.webp</picture>
+      <name>M-eng / Корпус для блока питания и дисплея ZK-5KX</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания на базе модуля FKSI 85-265V и дисплея-вольтамперметра ZK-5KX. Для крепления компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PQBAA01</param>
+    </offer>
+    <offer id="10" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=10</url>
+      <price>725</price>
+      <oldprice>1000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-30.geobasket.ru/vol3272/part327218/327218428/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-30.geobasket.ru/vol3272/part327218/327218428/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-30.geobasket.ru/vol3272/part327218/327218428/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO MEGA 2560, 3.5" TFT</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino Mega 2560, 5-кнопочной клавиатуры и 3.5-дюймового TFT-дисплея. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. В последней версии предусмотрена установка зуммера.Дисплей, плата и клавиатура в комплект не входят!]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="11" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=11</url>
+      <price>1230</price>
+      <oldprice>1720</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-04.geobasket.ru/vol9202/part920201/920201762/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-04.geobasket.ru/vol9202/part920201/920201762/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-04.geobasket.ru/vol9202/part920201/920201762/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3116D2</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на микросхеме TPA3116D2. Возможности и компоненты для сборки (в комплект не входят):предусилитель с темброблоком XH-A901,усилитель мощности XH-M543,Bluetooth (V.5.0) модуль XY-BT-MINI HW-770,стрелочный индикатор звука DWAN,импульсный блок питания FKSI 85-265V 24V 1-9A,Материал корпуса - пластик, цвет - серый (лицевая панель - черная). С июля 2026 добавлено:возможность установки выключателя питания на лицевой панели,возможность установки изолированного источника питания 5В.скрытый монтаж лицевой панели.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFABA01</param>
+    </offer>
+    <offer id="12" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=12</url>
+      <price>1219</price>
+      <oldprice>1620</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol5578/part557809/557809344/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol5578/part557809/557809344/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol5578/part557809/557809344/images/big/3.webp</picture>
+      <name>Корпус для электроники (лабораторный блок питания)</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Особенностью модели является использование акрилового экрана на лицевой панели для индикации характеристик тока.С 30.10.2025 корпус выпускается с увеличенной до 180мм глубиной.С 15.11.2025 добавлены точки крепления под AC/DC типа WaVGAT 180WС 20.11.2025 добавлены дополнительные вентиляционные отверстия в корпусе и технологические отверстия для демонтажа вводного блока питанияC 14.12.2025 контроль температуры и настройка термостата теперь может обеспечивается без разборки корпуса (см.фото): в верхней крышке предусмотрено смотровое окно с отверстиями под кнопки настройки.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PQAAA01A</param>
+    </offer>
+    <offer id="13" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=13</url>
+      <price>1261</price>
+      <oldprice>2100</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol10617/part1061703/1061703667/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol10617/part1061703/1061703667/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol10617/part1061703/1061703667/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на микросхеме TPA3255. Компоненты для сборки (в комплект не входят):многоформатный аудиодекодер Gaqqee с 2.8 экраном,усилитель мощности ZK3002 на базе TPA3255,импульсный блок питания BMS PRO 48V 600W,Возможности:Bluetooth ver.5.3+BR+EDR,инфракрасный приемник для дистанционного управления,USB-порт,TF-card порт,эквалайзер,эквалайзер]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFADA02</param>
+    </offer>
+    <offer id="14" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=14</url>
+      <price>1261</price>
+      <oldprice>2100</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 под DIN-рейку</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/NANO/Mega 2560, 0.96 OLED-дисплея, 3-кнопочной клавиатуры. Предназначен для установки на DIN-рейку. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов например датчика температуры, макетной платы и т.д. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Для установки Arduino NANO с адаптером в комплекте присутствует переходник см.фото.Электронные компоненты в данный комплект поставки не входят.C 20.02.2026 добалено крепление для установки энкодера или переменного резистора, появилась возможность установки 3 светодиодов размерности 2х3х4мм]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="15" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=15</url>
+      <price>914</price>
+      <oldprice>1500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol4161/part416124/416124453/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol4161/part416124/416124453/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol4161/part416124/416124453/images/big/3.webp</picture>
+      <name>Корпус для электроники (ARDUINO UNO, Mega 2560 и проч.)</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, двухстрочного ЖК-дисплея типа 1602, 5-кнопочной клавиатуры, энкодера/резистора, сигнальных светодиодов, вентилятора охлаждения и прочих компонентов. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="16" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=16</url>
+      <price>914</price>
+      <oldprice>1500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-21.geobasket.ru/vol3755/part375555/375555199/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-21.geobasket.ru/vol3755/part375555/375555199/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-21.geobasket.ru/vol3755/part375555/375555199/images/big/3.webp</picture>
+      <name>Корпус для электроники (ARDUINO UNO, Mega 2560 и проч.)</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, двухстрочного ЖК-дисплея типа 1602, 5-кнопочной клавиатуры, энкодера/резистора, сигнальных светодиодов, вентилятора охлаждения и прочих компонентов. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="17" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=17</url>
+      <price>807</price>
+      <oldprice>1127</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol3332/part333245/333245519/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 под DIN-рейку</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, клавиатурыи 1,8-д.ймового дисплея. Предназначен для монтажа на DIN-рейку. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов например датчика температуры,макетной платы и т.д.Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="18" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=18</url>
+      <price>914</price>
+      <oldprice>1500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/3.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/4.webp</picture>
+      <name>Корпус для сборки селектора каналов 2-IN 2-OUT</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку селектора аудиоканалов. Селектор служит для неинструментального (на слух) сравнения качества звука исходящего из двух сравниваемых аудиосистем. На задней стенке корпуса расположены отверстия для 4 групп контактов типа  одновременно можно подключить 2 усилителя и 2 пары акустических систем. Переключение производится двумя блоками из 4 реле (в комплект не входит). Расположенные на корпусе точки крепления позволяют устанавливать блоки реле с межцентровым расстоянием отверстий 66х47мм и 69х44мм. Управление блоками предполагает использование 2-канального ресивера RF-сигнала в комплекте с пультом дистанционного управления.Важно!!! Все электронные компоненты показанные на фото в комплект поставки не входят, фото собранного селектора даны исключительно в информационных целях для помощи в подборе компонентов и сборке.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="19" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=19</url>
+      <price>1160</price>
+      <oldprice>1780</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-58.geobasket.ru/vol5756/part575699/575699696/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-58.geobasket.ru/vol5756/part575699/575699696/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-58.geobasket.ru/vol5756/part575699/575699696/images/big/3.webp</picture>
+      <name>Корпус для ARDUINO UNO/Mega 2560 + LCD2004</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, 4-строчного ЖК-дисплея типа 2004, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Модификация А отличается лицевой панелью с закрывающим дисплей тонированным стеклом.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PDAEA03A</param>
+    </offer>
+    <offer id="20" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=20</url>
+      <price>1080</price>
+      <oldprice>1520</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol6042/part604267/604267248/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol6042/part604267/604267248/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol6042/part604267/604267248/images/big/3.webp</picture>
+      <name>Корпус для Ардуино (ARDUINO UNO/Mega 2560/NANO)</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, 4-строчного ЖК-дисплея типа 2004, 5-кнопочной клавиатуры и вентилятора охлаждения. От базовой модели данная модификация отличается отсутствием выступающих элементов крепления корпуса (ушей), крепежные отверстия размещены внутри стенок корпуса. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку, сверху и снизу корпуса выполнены углубления под отверстия для выхода проводов. Крышка имеет 4-точечное крепление, на лицевой панели есть возможность установки трех сигнальных светодиодов. Корпус имеет 12 отверстий прикрытых заглушками под вывод проводов. Модификация А имеет на лицевой панели тонированное защитное PMMA-стекло.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PDAEA01A</param>
+    </offer>
+    <offer id="21" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=21</url>
+      <price>1107</price>
+      <oldprice>1590</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-19.geobasket.ru/vol5354/part535418/535418177/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-19.geobasket.ru/vol5354/part535418/535418177/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-19.geobasket.ru/vol5354/part535418/535418177/images/big/3.webp</picture>
+      <name>Корпус для ARDUINO UNO/Mega 2560 + LCD2004</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, 4-строчного ЖК-дисплея типа 2004, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PDAEA03</param>
+    </offer>
+    <offer id="22" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=22</url>
+      <price>1080</price>
+      <oldprice>1520</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol3272/part327211/327211261/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol3272/part327211/327211261/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol3272/part327211/327211261/images/big/3.webp</picture>
+      <name>Корпус для Ардуино (ARDUINO UNO/Mega 2560/NANO)</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, двухстрочного ЖК-дисплея типа 1602 и 3-кнопочной клавиатуры. Предназначен для монтажа на DIN-рейку. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Электронные компоненты в данный комплект поставки не входят.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="23" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=23</url>
+      <price>425</price>
+      <oldprice>720</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5137/part513745/513745309/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5137/part513745/513745309/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5137/part513745/513745309/images/big/3.webp</picture>
+      <name>Модуль вентиляторный 1U 10 для вентиляторов 4010</name>
+      <description><![CDATA[Панель для установки 3 вентиляторов типа 4010 в стойку стандарта 10 высотой 1U. Предусмотрена так же установка термостата типа W1209. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Модель">PEAAA06</param>
+    </offer>
+    <offer id="24" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=24</url>
+      <price>380</price>
+      <oldprice>640</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol5078/part507867/507867342/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol5078/part507867/507867342/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol5078/part507867/507867342/images/big/3.webp</picture>
+      <name>Заглушка глухая 1U для 10 корпуса (2шт.)</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 1U, имеет отверстия для вентиляции. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="25" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=25</url>
+      <price>380</price>
+      <oldprice>640</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol6258/part625807/625807147/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol6258/part625807/625807147/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-09.geobasket.ru/vol6258/part625807/625807147/images/big/3.webp</picture>
+      <name>Корпус для электроники, LCD2004, энкодера и клавиатуры</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь различного оборудования, 4-строчного ЖК-дисплея типа 2004, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. В верхней части корпуса имеется окно для контроля внутренней температуры и настройки термостата. Модификация А предполагает наличие защитного тонированного стекла закрывающего дисплей.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="26" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=26</url>
+      <price>370</price>
+      <oldprice>680</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-12.geobasket.ru/vol5072/part507211/507211330/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-12.geobasket.ru/vol5072/part507211/507211330/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-12.geobasket.ru/vol5072/part507211/507211330/images/big/3.webp</picture>
+      <name>Панель 1U 10 для плат Arduino и дисплея 1602</name>
+      <description><![CDATA[Панель для стоек стандарта 10 высотой 1U для установки плат Arduino UNO/MEGA2560, дисплея 1602, 5-кнопочной клавиатуры, переменного резистора/энкодера. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="27" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=27</url>
+      <price>580</price>
+      <oldprice>997</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-42.geobasket.ru/vol3271/part327198/327198400/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-42.geobasket.ru/vol3271/part327198/327198400/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-42.geobasket.ru/vol3271/part327198/327198400/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, двухстрочного ЖК-дисплея типа 1602 и вентилятора охлаждения. Предназначен для встраиваемой (скрытой) установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.C 1.03.2025 кышка выполнена в варианте 4-точечного крепления.С 1.12.2025 добавилась возможность установки энкодера.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="28" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=28</url>
+      <price>687</price>
+      <oldprice>1230</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-59.geobasket.ru/vol5968/part596841/596841717/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-59.geobasket.ru/vol5968/part596841/596841717/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-59.geobasket.ru/vol5968/part596841/596841717/images/big/3.webp</picture>
+      <name>Заглушка глухая 4U для 10 корпуса (2шт.)</name>
+      <description><![CDATA[Комплект глухих заглушек 4U для 10-дюймового корпуса. Закрывают слоты, защищают от пыли и придают законченный вид. Две штуки в комплекте.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAD02</param>
+    </offer>
+    <offer id="29" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=29</url>
+      <price>494</price>
+      <oldprice>963</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol5968/part596837/596837526/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol5968/part596837/596837526/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol5968/part596837/596837526/images/big/3.webp</picture>
+      <name>Заглушка глухая 2U для 10 корпуса (2шт.)</name>
+      <description><![CDATA[Комплект глухих заглушек 2U для 10-дюймового корпуса. Простое решение для закрытия пустующих слотов. Две штуки в комплекте.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAB02ы</param>
+    </offer>
+    <offer id="30" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=30</url>
+      <price>657</price>
+      <oldprice>1170</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol3396/part339625/339625293/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol3396/part339625/339625293/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-35.geobasket.ru/vol3396/part339625/339625293/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 и дисплея 1602</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, двухстрочного ЖК-дисплея типа 1602, 5-кнопочной клавиатуры и вентилятора охлаждения. От базовой модели (P000002) данная модификация отличается отсутствием выступающих элементов крепления корпуса (ушей), крепежные отверстия размещены внутри стенок корпуса. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку, сверху и снизу корпуса выполнены углубления под отверстия для выхода проводов. Крышка имеет 4-точечное крепление, установлен макет кнопочного узла с 5 кнопками, на лицевой панели есть возможность установки трех сигнальных светодиодов. Корпус имеет 12 отверстий прикрытых заглушками под вывод проводов. Отверстия под вентилятор и дисплей так же закрыты заглушками.Электронные компоненты в комплектацию не входят.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="31" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=31</url>
+      <price>657</price>
+      <oldprice>1170</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5190/part519003/519003769/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5190/part519003/519003769/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-51.geobasket.ru/vol5190/part519003/519003769/images/big/3.webp</picture>
+      <name>Панель 1U 10 на 11 портов типа Keystone</name>
+      <description><![CDATA[Панель для установки 11 портов типа Keystone, устанавливается в стойки стандарта 10. Высота 1U (44,45мм). Крепеж и заглушки в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Модель">PEAAA08</param>
+    </offer>
+    <offer id="32" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=32</url>
+      <price>657</price>
+      <oldprice>1170</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol7117/part711774/711774642/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol7117/part711774/711774642/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol7117/part711774/711774642/images/big/3.webp</picture>
+      <name>Корпус для сборки лабораторного блока питания</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. Отличие данной модификации заключается в возможности установки 3-строчного вольт-амперметра (показывает напряжение, силу тока и мощность), дисплей которого прикрыт тонированным оргстеклом (для установки дисплея его необходимо демонтировать из штатного корпуса). Для контроля и управления температурой внутри корпуса предусмотрено окно на верхней стороне.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="33" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=33</url>
+      <price>1412</price>
+      <oldprice>2036</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8016/part801621/801621504/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8016/part801621/801621504/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8016/part801621/801621504/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на 2 микросхемах TPA3255 (2x600W). Возможности и состав готового изделия:- 3 платы питания на40, 12 и 5В для питания компонентов;- 4-канальный коммутатор входа RCA diymore;- плата усилителя типа ZK-6002 на базе 2 микросхем TPA3255 мощностью 2х600Вт;- Bluetooth модуль XY-BT-MINI HW-770;- 2-строчный светодиодный дисплей с индикацией уровня звука на базе платы TCXRE;- подъемная подставка под телефон с беспроводной зарядкой;C 14.02.2026 на верхней крышке установлены места крепления для понижающих модулей XL4015E1 или аналогов, способных работать с входным напряжением до 36В.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="34" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=34</url>
+      <price>1412</price>
+      <oldprice>2036</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol10122/part1012272/1012272642/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol10122/part1012272/1012272642/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol10122/part1012272/1012272642/images/big/3.webp</picture>
+      <name>Корпус для сборки селектора каналов</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку селектора аудиоканалов. Селектор служит для неинструментального (на слух) сравнения качества звука исходящего из двух сравниваемых аудиосистем. На задней стенке корпуса расположены отверстия для 3 групп контактов типа тюльпан . В зависимости от подключения можно реализовать схему 2 усилителя - 1 акустическая система или один усилитель - 2 акустические системы. Переключение производится блоком из 4 реле (в комплект не входит). Управление блоком можно реализовать через переключатель на лицевой панели или дистанционно, если установить в корпус приемник RF-сигнала.Важно!!! Все электронные компоненты показанные на фото в комплект поставки не входят, фото собранного селектора даны исключительно в информационных целях для помощи в подборе компонентов и сборке.C 15.06.2026 в комплект добавлены разъемы для подключения проводов]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="35" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=35</url>
+      <price>1412</price>
+      <oldprice>2036</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol11852/part1185258/1185258042/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol11852/part1185258/1185258042/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-44.geobasket.ru/vol11852/part1185258/1185258042/images/big/3.webp</picture>
+      <name>Корпус для электроники ARDUINO UNO/Mega 2560 и 3.5"</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, 3.5 TFT-дисплея, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="36" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=36</url>
+      <price>1412</price>
+      <oldprice>2036</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-56.geobasket.ru/vol11923/part1192354/1192354014/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-56.geobasket.ru/vol11923/part1192354/1192354014/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-56.geobasket.ru/vol11923/part1192354/1192354014/images/big/3.webp</picture>
+      <name>Корпус для электроники (ARDUINO UNO/Mega 2560 и 4"</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, 4 TFT-дисплея, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PDAFA03</param>
+    </offer>
+    <offer id="37" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=37</url>
+      <price>1658</price>
+      <oldprice>1876</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-60.geobasket.ru/vol11752/part1175273/1175273758/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-60.geobasket.ru/vol11752/part1175273/1175273758/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-60.geobasket.ru/vol11752/part1175273/1175273758/images/big/3.webp</picture>
+      <name>Корпус для сборки резистивной нагрузки</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку резистивной нагрузки используемой для тестирования усилителей УНЧ. Корпус предполагает установку вольтамперметра, 2 кулисных переключателей для установки фиксированных значений сопротивлений 2,4, 6, 8Ом, термостата для управления работой вентиляторов охлаждения, выхода на звуковую карту с делителем.Важно!!! Все электронные компоненты показанные на фото в комплект поставки не входят, фото собранного изделия даны исключительно в информационных целях для помощи в подборе компонентов и сборке.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFBAA01</param>
+    </offer>
+    <offer id="38" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=38</url>
+      <price>987</price>
+      <oldprice>1210</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol5961/part596148/596148779/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol5961/part596148/596148779/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol5961/part596148/596148779/images/big/3.webp</picture>
+      <name>Корпус для Ардуино (ARDUINO UNO, Mega 2560)</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/NAno/Mega 2560, двухстрочного ЖК-дисплея типа 1602 и вентилятора охлаждения. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.Данная модель выполнена из серого пластика, в крышке используется прозрачное оргстекло, для установки Arduino Nano c шилдом имеется адаптер.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик; оргстекло</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PAAAA03</param>
+    </offer>
+    <offer id="39" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=39</url>
+      <price>765</price>
+      <oldprice>922</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol5969/part596940/596940094/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol5969/part596940/596940094/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol5969/part596940/596940094/images/big/3.webp</picture>
+      <name>Корпус модуля блока питания 1U 10"</name>
+      <description><![CDATA[Корпус высотой 1U для сборки лабораторного блока питания и установки в 10 стойку. Электрокомпоненты в комплектацию не входят.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="40" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=40</url>
+      <price>1549</price>
+      <oldprice>1760</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol10520/part1052012/1052012011/images/big/3.webp</picture>
+      <name>Корпус для сборки селектора каналов 2-IN 2-OUT</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку селектора аудиоканалов. Селектор служит для неинструментального (на слух) сравнения качества звука исходящего из двух сравниваемых аудиосистем. На задней стенке корпуса расположены отверстия для 4 групп контактов типа тюльпан одновременно можно подключить 2 усилителя и 2 пары акустических систем. Переключение производится двумя блоками из 4 реле (в комплект не входит). Расположенные на корпусе точки крепления позволяют устанавливать блоки реле с межцентровым расстоянием отверстий 66х47мм и 69х44мм. Управление блоками предполагает использование 2-канального ресивера RF-сигнала в комплекте с пультом дистанционного управления.Важно!!! Все электронные компоненты показанные на фото в комплект поставки не входят, фото собранного селектора даны исключительно в информационных целях для помощи в подборе компонентов и сборке.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="41" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=41</url>
+      <price>5042</price>
+      <oldprice>7036</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol5962/part596276/596276256/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol5962/part596276/596276256/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol5962/part596276/596276256/images/big/3.webp</picture>
+      <name>Каркас телекоммуникационной стойки 10 12U</name>
+      <description><![CDATA[Каркас для самостоятельной сборки телекоммуникационного шкафа размерностью 10 высотой 12U. Подходит для установки непрофессионального серверного оборудования, систем хранения информации, систем умного дома и т.д.С 5.01.2026 конструкция каркаса переработана (фото на синем фоне): сверху и снизу каркаса используются цельнопластиковые основания, прочность и точность конструкции значительно возросла. В комплект добавлены нижние перфорированные пластины.С 1.03.2026 в комплект прилагается верхняя съемная крышка.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">алюминий, пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="42" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=42</url>
+      <price>1338</price>
+      <oldprice>1916</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-37.geobasket.ru/vol7664/part766480/766480115/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-37.geobasket.ru/vol7664/part766480/766480115/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-37.geobasket.ru/vol7664/part766480/766480115/images/big/4.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на 2 микросхемах TPA3255 (2x600W). Возможности и состав готового изделия:- 3 платы питания на 40, 12 и 5В для питания компонентов- 4-канальный коммутатор входа RCA diymore- плата усилителя типа ZK-6002 на базе 2 микросхем TPA3255 мощностью 2х600Вт- Bluetooth модуль XY-BT-MINI HW-770- 2-строчный светодиодный дисплей с индикацией уровня звука на базе платы TCXRE.C 24.01.2026 появилась возможность установки более мощного и качественного блока питания OAKFIX 350W 24-60V.C 14.02.2026 на верхней крышке установлены места крепления для понижающих модулей XL4015E1 или аналогов, способных работать с входным напряжением до 36В.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PFAAA01</param>
+    </offer>
+    <offer id="43" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=43</url>
+      <price>3648</price>
+      <oldprice>5500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-06.geobasket.ru/vol5964/part596437/596437924/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-06.geobasket.ru/vol5964/part596437/596437924/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-06.geobasket.ru/vol5964/part596437/596437924/images/big/3.webp</picture>
+      <name>Каркас телекоммуникационной стойки 10 6U</name>
+      <description><![CDATA[Каркас для самостоятельной сборки телекоммуникационного шкафа размерностью 10 высотой 6U. Подходит для установки непрофессионального серверного оборудования, систем хранения информации, систем умного дома и т.д.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">алюминий,пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="44" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=44</url>
+      <price>878</price>
+      <oldprice>1200</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol8553/part855397/855397086/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol8553/part855397/855397086/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-08.geobasket.ru/vol8553/part855397/855397086/images/big/3.webp</picture>
+      <name>Корпус для Arduino Mega/Uno, клавиатуры и RFID считывателя</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и многочисленных плат расширения, 3.5 TFT-дисплея, 5-кнопочной клавиатуры и вентилятора охлаждения. Предназначен для настольной установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="45" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=45</url>
+      <price>732</price>
+      <oldprice>1000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol3270/part327068/327068732/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol3270/part327068/327068732/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol3270/part327068/327068732/images/big/3.webp</picture>
+      <name>Корпус для Ардуино (ARDUINO UNO, Mega 2560) и 1,8 дисплея</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, 1,8 дисплея (128х160), 5-кнопочной клавиатуры, инкрементального энкодера, пьезоэлектрического динамика, 3-х контрольных ламп и вентилятора охлаждения. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку. На крышке предусмотрено крепление светодиодных индикаторов, гнёзда платы могут выходить как на правую, так и на левую стороны. Крышка имеет 4-точечное крепление, корпус имеет 12 отверстий для выхода проводов прикрытых заглушками.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый,черныйы</param>
+    </offer>
+    <offer id="46" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=46</url>
+      <price>878</price>
+      <oldprice>1200</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol9220/part922057/922057292/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol9220/part922057/922057292/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-34.geobasket.ru/vol9220/part922057/922057292/images/big/3.webp</picture>
+      <name>Корпус для Ардуино Mega 2560 и 3.5 дисплея</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino Mega 2560, 3.5-дюймового TFT-дисплея, клавиатуры, батареи типа крона и пьезоэлектрического зуммера. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="47" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=47</url>
+      <price>665</price>
+      <oldprice>910</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol3271/part327191/327191256/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol3271/part327191/327191256/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-38.geobasket.ru/vol3271/part327191/327191256/images/big/3.webp</picture>
+      <name>Корпус для ARDUINO UNO/Mega 2560 и 1,8 дисплея встраиваемый</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560, 1,8 дисплея 128х160 и вентилятора охлаждения. Модификация предназначена для встраиваемой установки. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов например датчика температуры, макетной платы и т.д. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.В случае предпочтения того или иного цвета или особых требований - свяжитесь предварительно с магазином.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый,черныйы</param>
+    </offer>
+    <offer id="48" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=48</url>
+      <price>1652</price>
+      <oldprice>2226</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-17.geobasket.ru/vol13351/part1335157/1335157515/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-17.geobasket.ru/vol13351/part1335157/1335157515/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-17.geobasket.ru/vol13351/part1335157/1335157515/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255 (ZK6002)</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на 2 микросхемах TPA3255 (2x600W). Возможности и состав готового изделия:3 платы питания на 40, 12 и 5В для питания компонентов4-канальный коммутатор входа RCA diymoreплата усилителя типа ZK-6002 на базе 2 микросхем TPA3255 мощностью 2х600ВтBluetooth модуль XY-BT-MINI HW-7702-строчный светодиодный дисплей с индикацией уровня звука на базе платы TCXRE.C 24.01.2026 появилась возможность установки более мощного и качественного блока питания OAKFIX 350W 24-60V.C 14.02.2026 на верхней крышке установлены места крепления для понижающих модулей XL4015E1 или аналогов, способных работать с входным напряжением до 36В.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">белый</param>
+      <param name="Модель">PC9A001</param>
+    </offer>
+    <offer id="49" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=49</url>
+      <price>1259</price>
+      <oldprice>1500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol11550/part1155045/1155045163/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol11550/part1155045/1155045163/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol11550/part1155045/1155045163/images/big/3.webp</picture>
+      <name>Корпус для Ардуино и дисплея 1602</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/NANO/Mega 2560, дисплея типа 1602, 5-кнопочной клавиатуры и вентилятора охлаждения. Вся индикация (есть крепления для 3 светодиодов диаметром 5мм) и дисплей скрыты за большим тонированным стеклом на лицевой панели. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, реле, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку, по бокам корпуса выполнены отверстия для выхода проводов. Для установки платы Arduino NANO (с адаптером) в комплекте идет переходная пластина. Для контрольных ламп предусмотрено три окна. В комплекте так же заглушки, кнопки под клавиатуру.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="50" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=50</url>
+      <price>730</price>
+      <oldprice>940</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-05.geobasket.ru/vol4376/part437615/437615883/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-05.geobasket.ru/vol4376/part437615/437615883/images/big/2.webp</picture>
+      <picture>https://mows-basket-cdn-05.geobasket.ru/vol4376/part437615/437615883/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 под DIN-рейку</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под установку платы Arduino Uno, имеет крепление для установки на DIN-рейку, ширина корпуса соответствует 6 юнитам. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PC6A001</param>
+    </offer>
+    <offer id="52" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=52</url>
+      <price>430</price>
+      <oldprice>551</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8744/part874446/874446984/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8744/part874446/874446984/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8744/part874446/874446984/images/big/3.webp</picture>
+      <name>Заглушка перфорированная 5U для 10 корпуса (1шт.)</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под установку платы Arduino Uno, имеет крепление для установки на DIN-рейку, ширина корпуса соответствует 6 юнитам. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAD02</param>
+    </offer>
+    <offer id="53" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=53</url>
+      <price>993</price>
+      <oldprice>1150</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-18.geobasket.ru/vol8744/part874434/874434616/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-18.geobasket.ru/vol8744/part874434/874434616/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-18.geobasket.ru/vol8744/part874434/874434616/images/big/3.webp</picture>
+      <name>Заглушка перфорированная 4U для 10 корпуса (2шт.)</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 4U.. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAD02</param>
+    </offer>
+    <offer id="54" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=54</url>
+      <price>768</price>
+      <oldprice>980</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol8744/part874426/874426188/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol8744/part874426/874426188/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol8744/part874426/874426188/images/big/3.webp</picture>
+      <name>Заглушка перфорированная 3U для 10 корпуса (2шт.</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 3U.. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAC02</param>
+    </offer>
+    <offer id="55" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=55</url>
+      <price>580</price>
+      <oldprice>740</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol5651/part565139/565139881/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol5651/part565139/565139881/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-03.geobasket.ru/vol5651/part565139/565139881/images/big/3.webp</picture>
+      <name>Панель нижняя для стойки 10</name>
+      <description><![CDATA[Панель нижняя перфорированная для установки в телекоммуникационные шкафы размерностью 10]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="56" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=56</url>
+      <price>627</price>
+      <oldprice>808</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8484/part848485/848485344/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-26.geobasket.ru/vol8484/part848485/848485344/images/big/2.webp</picture>
+      <name>Крышка стойки 10</name>
+      <description><![CDATA[Крышка верхняя для 10 стойки]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик,алюминий</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="57" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=57</url>
+      <price>565</price>
+      <oldprice>716</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol8727/part872771/872771345/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol8727/part872771/872771345/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol8727/part872771/872771345/images/big/3.webp</picture>
+      <name>Заглушка глухая 6U для 10 корпуса (1шт.)</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 6U. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="58" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=58</url>
+      <price>441</price>
+      <oldprice>570</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-05.geobasket.ru/vol8744/part874464/874464003/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-05.geobasket.ru/vol8744/part874464/874464003/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-05.geobasket.ru/vol8744/part874464/874464003/images/big/3.webp</picture>
+      <name>Заглушка глухая 5U для 10 корпуса (1шт.)</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 5U. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAD02</param>
+    </offer>
+    <offer id="59" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=59</url>
+      <price>658</price>
+      <oldprice>830</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-57.geobasket.ru/vol6076/part607657/607657135/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-57.geobasket.ru/vol6076/part607657/607657135/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-57.geobasket.ru/vol6076/part607657/607657135/images/big/3.webp</picture>
+      <name>Модуль для установки HDD 1U 10</name>
+      <description><![CDATA[Модуль для двух жестких дисков хранения данных. Предназначен для установки в 10 телекоммуникационную стойку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEAAA15</param>
+    </offer>
+    <offer id="61" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=61</url>
+      <price>3751</price>
+      <oldprice>4500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-16.geobasket.ru/vol4249/part424920/424920974/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-16.geobasket.ru/vol4249/part424920/424920974/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-16.geobasket.ru/vol4249/part424920/424920974/images/big/3.webp</picture>
+      <name>Электропривод мебельного выдвижного ящика</name>
+      <description><![CDATA[Электропривод выдвижного ящика. Рассчитан на установку в мебельные гарнитуры типа IKEA или аналоги. Максимальная длина выдвижения (700мм) может быть увеличена добавлением сегментов зубчатой рейки (в комплекте 3 сегмента по 177мм). Для управления приводом используется переключатель с 3 положениями:вперед, назад, стоп. Предусмотрена подсветка внутреннего объема шкафа. Длина провода питания - 1,0 м.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">SH00006</param>
+    </offer>
+    <offer id="62" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=62</url>
+      <price>646</price>
+      <oldprice>856</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/3.webp</picture>
+      <name>Заглушка вентиляционная 1U для 10 корпуса (2шт.)</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 1U, имеет отверстия для вентиляции. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Модель">PEAAA01</param>
+    </offer>
+    <offer id="63" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=63</url>
+      <price>1446</price>
+      <oldprice>2120</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12025/part1202556/1202556620/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12025/part1202556/1202556620/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-22.geobasket.ru/vol12025/part1202556/1202556620/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на микросхеме TPA3255. Данная модель отличается изготовлением из пластика белого цвета. Возможности и компоненты для сборки (в комплект не входят):предусилитель с TFT-дисплеем и Bluetooth-приемником Diymore или аналогусилитель мощности TPA3255 300Wимпульсный блок питания 48V600WВажно!!! Перед покупкой корпуса проверьте координаты лицевой панели, поскльку они у разных поставщиков отлиаются. Размеры между отверстиями должны быть 129х64мм.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+    </offer>
+    <offer id="64" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=64</url>
+      <price>1406</price>
+      <oldprice>2090</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol12472/part1247291/1247291443/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol12472/part1247291/1247291443/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-45.geobasket.ru/vol12472/part1247291/1247291443/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и популярной платы усилителя D-класса на микросхеме TPA3255 (Texas instruments). Возможности и компоненты для сборки (в комплект не входят):предусилитель с темброблоком XH-A901 усилитель мощности ZK-6002 (2x315W при 4Om, PurePath Ultra-HD, PBTL)Bluetooth модуль XY-BT-MINI HW-770 (Bluetooth v.5)стрелочный индикатор звука DWANимпульсный блок питания TERIFIC, JAKFIX или аналог]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFABA02</param>
+    </offer>
+    <offer id="65" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=65</url>
+      <price>1356</price>
+      <oldprice>1986</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-31.geobasket.ru/vol5078/part507856/507856589/images/big/3.webp</picture>
+      <name>Корпус для сборки стриммера</name>
+      <description><![CDATA[Заглушка для корпусов 10 дюймового стандарта высотой 1U, имеет отверстия для вентиляции. Крепеж в комплекте]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Модель">PFGAA01</param>
+    </offer>
+    <offer id="66" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=66</url>
+      <price>456</price>
+      <oldprice>656</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-56.geobasket.ru/vol9461/part946129/946129434/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-56.geobasket.ru/vol9461/part946129/946129434/images/big/2.webp</picture>
+      <name>Заглушка глухая с полкой для 10 корпуса</name>
+      <description><![CDATA[Заглушка с полкой для установки оборудования высотой 1U. Предназначена для корпусов 10 дюймового стандарта.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PEABA02</param>
+    </offer>
+    <offer id="67" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=67</url>
+      <price>610</price>
+      <oldprice>990</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://basket-30.wbcontent.net/vol5961/part596187/596187744/images/big/1.webp</picture>
+      <picture>https://basket-30.wbcontent.net/vol5961/part596187/596187744/images/big/2.webp</picture>
+      <picture>https://basket-30.wbcontent.net/vol5961/part596187/596187744/images/big/3.webp</picture>
+      <name>Вводной модуль питания для 10 корпуса</name>
+      <description><![CDATA[Вводной модуль питания для обеспечения 10 корпуса питанием 220В 10А.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="68" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=68</url>
+      <price>663</price>
+      <oldprice>1000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://basket-17.wbcontent.net/vol2821/part282157/282157273/images/big/1.webp</picture>
+      <picture>https://basket-17.wbcontent.net/vol2821/part282157/282157273/images/big/2.webp</picture>
+      <picture>https://basket-17.wbcontent.net/vol2821/part282157/282157273/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/NANO/MEGA 2560 и дисплея 1602</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/NANO/Mega 2560, двухстрочного ЖК-дисплея типа 1602, 5-кнопочной клавиатуры и вентилятора охлаждения. Для установки Arduino NANO (с адаптером) в комплекте предусмотрена переходная пластина. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="69" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=69</url>
+      <price>576</price>
+      <oldprice>870</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol3274/part327421/327421774/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol3274/part327421/327421774/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-36.geobasket.ru/vol3274/part327421/327421774/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 и дисплея 1602</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino UNO/Mega 2560 и двухстрочного ЖК-дисплея типа 1602. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+    </offer>
+    <offer id="70" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=70</url>
+      <price>1398</price>
+      <oldprice>2100</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-43.geobasket.ru/vol16891/part1689109/1689109601/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-43.geobasket.ru/vol16891/part1689109/1689109601/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-43.geobasket.ru/vol16891/part1689109/1689109601/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе популярного модуля WONDOM JAB5 (ST Microelectrinics TDA7498E). Возможности сборки:многоформатный аудиодекодер Diymore с 2.8 экраномусилитель мощности 2х300Wподдержка межблочного соединения по цифровой шине I2Sвстроенный цифровой процессор ADAU1701, возможность программирования DSP с помощью приложения Sigma Studio.питание от специализированного блока 48 и 12ВBluetooth ver.5.3+BR+EDRинфракрасный приемник с пультом дистанционного управленияUSB-портTF-card портграфический эквалайзервход и выход формата Jack 3.5mmцифровой вход I2S]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="71" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=71</url>
+      <price>656</price>
+      <oldprice>996</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-25.geobasket.ru/vol4361/part436123/436123223/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-25.geobasket.ru/vol4361/part436123/436123223/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-25.geobasket.ru/vol4361/part436123/436123223/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 под DIN-рейку</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под установку двух драйверов BTS7960 и вентилятора охлаждения типа 3010. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-устан]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+      <param name="Модель">PC7AA01</param>
+    </offer>
+    <offer id="72" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=72</url>
+      <price>1256</price>
+      <oldprice>1996</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol15181/part1518147/1518147839/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol15181/part1518147/1518147839/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-01.geobasket.ru/vol15181/part1518147/1518147839/images/big/3.webp</picture>
+      <name>Корпус для сборки стриммера</name>
+      <description><![CDATA[Пластиковый корпус для самостоятельной сборки стриммера (приемника потокового аудио) на базе платы Raspberry Pi. В качестве платы вывода предполагается использование модуля Nvarcher QCC 5125, который позволяет выводит сигнал в цифровом виде без потери качества через I2S разъем (внешне аналогичен HDMI). Так же можно использовать оптический, XLR и RCA-выход. Для отображения информации использован 0,96 дисплей, для управления служит инкрементальный энкодер. Основное управление -дистанционное можно реализовать через Volumio или аналогичное ПО установленное на смартфон, планшет или компьютер. Можно так же установить дополнительный дисплей подключив его через HDMI от Raspberry.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="73" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=73</url>
+      <price>1206</price>
+      <oldprice>1900</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol6196/part619618/619618565/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol6196/part619618/619618565/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-07.geobasket.ru/vol6196/part619618/619618565/images/big/3.webp</picture>
+      <name>Корпус для блока питания</name>
+      <description><![CDATA[Расширенная версия пластикового корпуса для сборки лабораторного блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). На лицевой стороне можно установить 3-строчный ампер-вольт-ваттметр, основные контакты, контрольные лампы, потенциометры управления напряжением и силой тока, сдвоенный USB-разъем розетки под питание напряжением 5 и 12В. На верхней крышке предусмотрена панель для контроля и управления встроенным термостатом. Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="74" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=74</url>
+      <price>1016</price>
+      <oldprice>1600</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol4959/part495917/495917851/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol4959/part495917/495917851/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-33.geobasket.ru/vol4959/part495917/495917851/images/big/3.webp</picture>
+      <name>Корпус для электроники (под блок питания)</name>
+      <description><![CDATA[Пластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.С 30.10.2025 корпус выпускается с увеличенной до 180мм глубиной.С 15.11.2025 добавлены точки крепления под AC/DC типа WaVGAT 180WС 20.11.2025 добавлены дополнительные вентиляционные отверстия в корпусе и технологические отверстия для демонтажа вводного блока питанияПластиковый корпус оптимизированный под сборку блока питания. Размеры и точки крепления рассчитаны под наиболее популярные компоненты (в базовый комплект не входят, по запросу можем частично или полностью укомплектовать изделие, дать ссылки на карточки товаров). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку.С 30.10.2025 корпус выпускается с увеличенной до 180мм глубиной.С 15.11.2025 добавлены точки крепления под AC/DC типа WaVGAT 180WС 20.11.2025 добавлены дополнительные вентиляционные отверстия в корпусе и технологические отверстия для демонтажа вводного блока питания]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    <offer id="75" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=75</url>
+      <price>1268</price>
+      <oldprice>2000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol16097/part1609795/1609795968/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol16097/part1609795/1609795968/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-50.geobasket.ru/vol16097/part1609795/1609795968/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TPA3255</name>
+      <description><![CDATA[Корпус для самостоятельной сборки аудиоусилителя на базе импульсного источника питания и платы усилителя D-класса на 2 микросхемах TPA3255 (2x600W). Возможности и состав готового изделия:3 платы питания на 40, 12 и 5В для питания компонентов4-канальный коммутатор входа RCA diymoreплата усилителя типа ZK-6002 на базе 2 микросхем TPA3255 мощностью 2х600ВтBluetooth модуль XY-BT-MINI HW-7702-строчный светодиодный дисплей с индикацией уровня звука на базе платы TCXRE.C 24.01.2026 появилась возможность установки более мощного и качественного блока питания OAKFIX 350W 24-60V.C 14.02.2026 на верхней крышке установлены места крепления для понижающих модулей XL4015E1 или аналогов, способных работать с входным напряжением до 36В]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">черный</param>
+    </offer>
+    <offer id="76" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=76</url>
+      <price>748</price>
+      <oldprice>1180</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-14.geobasket.ru/vol5067/part506714/506714352/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-14.geobasket.ru/vol5067/part506714/506714352/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-14.geobasket.ru/vol5067/part506714/506714352/images/big/3.webp</picture>
+      <name>Корпус для Arduino UNO/MEGA 2560 и дисплея 2004</name>
+      <description><![CDATA[Пластиковый корпус с возможностью установки внутрь платы Arduino NANO/UNO/Mega 2560, 4-строчного ЖК-дисплея типа 2004, 5-кнопочной клавиатуры и вентилятора охлаждения. От базовой модели (PAAAAA1) данная модификация отличается отсутствием выступающих элементов крепления корпуса (ушей), крепежные отверстия размещены внутри стенок корпуса. Внутренний объём достаточен для комфортного расположения соединительной проводки и каких-либо небольших компонентов (например датчика температуры, макетной платы и т.д.). Для крепления основных компонентов используется крепеж обеспечивающий многоразовое снятие-установку, для установки Arduino NANO (с адаптером) в комплекте имеется переходник. Крышка имеет 4-точечное крепление, на лицевой панели есть возможность установки трех сигнальных светодиодов. Корпус имеет 12 отверстий прикрытых заглушками под вывод проводов.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">черный</param>
+    </offer>
+    <offer id="77" available="true">
+      <url>https://maltsev-engineering.ru/market.html?product=77</url>
+      <price>1330</price>
+      <oldprice>2100</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://mow-basket-cdn-11.geobasket.ru/vol10833/part1083325/1083325689/images/big/1.webp</picture>
+      <picture>https://mow-basket-cdn-11.geobasket.ru/vol10833/part1083325/1083325689/images/big/2.webp</picture>
+      <picture>https://mow-basket-cdn-11.geobasket.ru/vol10833/part1083325/1083325689/images/big/3.webp</picture>
+      <name>Корпус для сборки аудиоусилителя на базе TDA7498E</name>
+      <description><![CDATA[Пластиковый корпус для самостоятельной сборки стриммера (приемника потокового аудио) на базе платы Raspberry Pi. В качестве платы вывода предполагается использование модуля Nvarcher QCC 5125, который позволяет выводит сигнал в цифровом виде без потери качества через I2S разъем (внешне аналогичен HDMI). Так же можно использовать оптический, XLR и RCA-выход. Для отображения информации использован 0,96 дисплей, для управления служит инкрементальный энкодер. Основное управление -дистанционное можно реализовать через Volumio или аналогичное ПО установленное на смартфон, планшет или компьютер. Можно так же установить дополнительный дисплей подключив его через HDMI от Raspberry.]]></description>
+      <sales_notes>Доставка по России через ПВЗ Ozon. Точную стоимость и срок уточняйте при заказе.</sales_notes>
+      <country_of_origin>Россия</country_of_origin>
+      <delivery>true</delivery>
+      <pickup>true</pickup>
+      <param name="Бренд">Maltsev Engineering</param>
+      <param name="Материал">пластик</param>
+      <param name="Цвет">серый</param>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
